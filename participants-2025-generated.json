@@ -1,0 +1,1732 @@
+[
+  {
+    "pk": 230500,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "Bootstrap4GridRowPlugin",
+    "parent_id": null,
+    "data": {
+      "vertical_alignment": "",
+      "horizontal_alignment": "",
+      "gutters": false,
+      "tag_type": "div",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230501,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230502,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230501,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230503,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230502,
+    "data": {
+      "body": "<h3>Francis Adom</h3>\n\n<p><strong>Academic Institution:</strong><br>\nLivingstone College</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Science and a minor in Economics</p>"
+    }
+  },
+  {
+    "pk": 230504,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230502,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230505,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230501,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My current major is Computer Science and I chose it because of that fact that I solve learning and making impact to the world. The world is changing with AI and machine learning and I want to be part of this.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>I wanted to be an entrepreneur, I wanted to build my own company and create an long lasting impact.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>The impact of AI and machone learning. I think we should focus on the negative implications as well.</p>"
+    }
+  },
+  {
+    "pk": 230506,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230507,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230506,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230508,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230507,
+    "data": {
+      "body": "<h3>Kristal Aguilar-Lopez</h3>\n\n<p><strong>Academic Institution:</strong><br>\nUT San Antonio</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Science</p>"
+    }
+  },
+  {
+    "pk": 230509,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230507,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230510,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230506,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>I am currently pursuing a degree in Computer Science at the University at Texas at San Antonio. From a young age, I was curious about the inner working of computers and technology. I would find myself asking,\u201d How does the mouse know where to go?\u201d or \u201cHow can a computer recognize what character I type even without the keyboard covers?\u201d \nDespite the curiosity, pursing a STEM. This major was not always part of my plan. Growing up, I lacked both exposure and guidance of entering the field. Through my young teen years, I envision myself as a dentist due to it being part of a doctorate. It wasn\u2019t until high school that my focused shifted. Building my school robotics team became a turning point that introduced me to not only engineering, problem-solving, and exposed me to computer science.\nWithin my 3 years in robotics, I gained hands-on experience that developed my mechanical work and computing concepts. I learned to work with tools, cerate prototypes, and build and troubleshoot code for our robots. Through my participation in robotics, I was opened to the creativity and logic the STEM field offered. What initially felt overwhelming turned into learning opportunities as I discovered how coding was applied to make these shells of metal come to life. \nA curtail influence during my time in robotics was meeting and being coached by a Hispanic female mentor in STEM who guided our team without hesitation. Initially, I doubted my contribution to the field due the complexity and compactivity of the field.  However, our mentor was patient and broke down complicated material into attainable goals. She emphasized curiosity and perseverance was more important than prior knowledge. Her encouragement thought our seasons inspired me to believe in not just our team\u2019s ability, but my own ability to succeed in the computer science field. Her representation in the field really inspired me to be another motivator for the minority community I\u2019m part of.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid I wanted to be all sorts of things such as a dentist, veterinarian, and artist. I knew being a doctor wasn\u2019t for me, since the thought of working with blood made me uneasy, but the idea of helping people was very important to me, which is why I leaned into becoming a dentist. Though curiosity of the vocabulary and pieces of technology use piqued my interest. Although it was short lived when I learned that working with animals was a possible route. I always have had a soft spot for animals, the idea of caring for them aligned with my compassion of assisting others. For a time, I saw myself becoming an artist due to the creativity, joy, and freedom that came with creating pieces of art. I found myself more pulled into artist as there was no sense of wrong, but a sense of storytelling that was unique and interpreted to everyone. Although these career paths were very different, they surfaced my enjoyment for working hands on, problem solving, and creating an impact on others.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>A social challenge that I care most about is racism. As a member of a minority community, I have experience how painful and frustrating the division arise between groups instead of support. Instead of trying to understand each other we tend to exchange and create hurtful words, judgments, and stereotypes. Many of these comments are rooted in fear and misunderstanding that have been passed down. Racism goes beyond emotional harm as it shapes education, employment, and access to resources. For younger generations, it can affect self-worth, confidence in themselves and the future. Due to current political issues, the fight for change that as a community have fought for in the past 50 years is coming to a halt.</p>"
+    }
+  },
+  {
+    "pk": 230511,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 2,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230512,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230511,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230513,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230512,
+    "data": {
+      "body": "<h3>Keanna Birchell</h3>\n\n<p><strong>Academic Institution:</strong><br>\nAustin Community College</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Information Technology- Computer Programming\nSoftware Development Bachelor of Applied Science\nComputer Information Technology- Coding and Design (Graduated 05/2025)</p>"
+    }
+  },
+  {
+    "pk": 230514,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230512,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230515,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230511,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My current major is Software Development because I wanted to progress with what I learned from my associates in coding and design. When I first began my associates, I was unsure that this field was right for me but as I progressed I started to love it. It provides a challenge for me and there is always more to learn and expand on.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>When I was a kid I wanted to be a mathematician or a statistician. Growing up I have always loved numbers and it is something that just comes natural to me. Analyzing data and things in that natural also peeked my interest so I imagined one of the two would be my dream job.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>Communication is a big one for me because I believe most things that happen in the business world or personal thrive off of effective communication. Some people are scared to communication, avoid it, or are really good at it but it can help everyone out in some way, shape or form.</p>"
+    }
+  },
+  {
+    "pk": 230516,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 3,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230517,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230516,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230518,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230517,
+    "data": {
+      "body": "<h3>Angel Cardenas</h3>\n\n<p><strong>Academic Institution:</strong><br>\nTexas A&amp;M International University</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Engineering</p>"
+    }
+  },
+  {
+    "pk": 230519,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230517,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230520,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230516,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>Computer Engineering. I chose this specific major because computers have always fascinated me. I have so many memories as a child of just being around computers.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>I always wanted to be a hacker because popular medias always made the act look like so much fun. As I grew older I realized that the goal was reachable and I decided to pursue it.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>I care about politics a lot due to the overall impact it has on our society. I feel as if there is too much corruption and greed that needs to be vanquished for our society to bloom.</p>"
+    }
+  },
+  {
+    "pk": 230521,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 4,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230522,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230521,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230523,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230522,
+    "data": {
+      "body": "<h3>Aalan Chari</h3>\n\n<p><strong>Academic Institution:</strong><br>\nMorehouse College</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Science</p>"
+    }
+  },
+  {
+    "pk": 230524,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230522,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230525,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230521,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>I am a Computer Science major and I chose that because I&#x27;ve always been interested in technology and coding. Coding is also a way I can bring many of my ideas to life.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>Like most kids my answer changed all the time. One day I wanted to be a Power Ranger then next week I wanted to be an entrepreneur. What stayed most consistent for me was my dream of becoming an inventor.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>Coming from Zimbabwe I see wealth disparities often and that&#x27;s something I really care about.</p>"
+    }
+  },
+  {
+    "pk": 230526,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 5,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230527,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230526,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230528,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230527,
+    "data": {
+      "body": "<h3>Lela Gi</h3>\n\n<p><strong>Academic Institution:</strong><br>\nChaminade University</p>\n\n<p><strong>Field of Study:</strong><br>\nData Science</p>"
+    }
+  },
+  {
+    "pk": 230529,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230527,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230530,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230526,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>I am currently a data science major but originally went as computer science. Through my school I was able to take some data science classes as well as participate in an amazing data science summer program and felt a strong passion for the field and what I could do. I love how data science is impactful around many areas and can turn data into meaningful insights!</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid I wanted to be a professional soccer player because I loved the sport and grew up playing it everyday. I am so grateful that my parents put me in soccer because it taught me a lot of lessons as well as allowed me to meet amazing people and achieve incredible opportunities.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>The social challenge I care about the most is the gaps in opportunity and equality because they affect how fairly people can live and succeed. Economic, educational, and social gaps Create barriers that limit peoples potential and divides communities. When people have less access to resources, education, and opportunities, it makes it more challenging to build a fair and united society. It is essential to work towards closing these gaps so everyone can succeed. By ensuring equal opportunities, we can create a strong, connected community where everyone can live better lives.</p>"
+    }
+  },
+  {
+    "pk": 230531,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 6,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230532,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230531,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230533,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230532,
+    "data": {
+      "body": "<h3>Maria Godinez Arenas</h3>\n\n<p><strong>Academic Institution:</strong><br>\nCentral Texas College</p>\n\n<p><strong>Field of Study:</strong><br>\nInterdisciplinary Studies</p>"
+    }
+  },
+  {
+    "pk": 230534,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230532,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230535,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230531,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>Currently, I have a couple more courses to complete my Interdisciplinary Associates degree.\nAfter this semester, I will be attending UTSA to continue my education with a Computer Information Technology. I chose this major because I think it has a great combination and balance of business and technology curriculum.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>When I was a kid, I don&#x27;t think I ever mentioned what I wanted to be. It wasn&#x27;t a something I was\nasked a lot. Back then and also today, I loved doing ballet and dancing in general. Maybe I would have answered I wanted to be a dancer.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>A social challenge I care about is the inequality and disrespect people have towards others.\nEveryone should have the opportunity to excel in what they want to do. Their race, color, economic status, or gender should not be an impediment Respect and fairness makes communities\nstronger.</p>"
+    }
+  },
+  {
+    "pk": 230536,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 7,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230537,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230536,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230538,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230537,
+    "data": {
+      "body": "<h3>Alex Greb</h3>\n\n<p><strong>Academic Institution:</strong><br>\nChaminade University</p>\n\n<p><strong>Field of Study:</strong><br>\nData Science major with a Computer Science minor</p>"
+    }
+  },
+  {
+    "pk": 230539,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230537,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230540,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230536,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>I am a Data Science major with a computer science minor, and I chose to pursue this path because I have always been good at math, and data science is a space where that is applied, as well as data science itself applies to virtually any industry, so many opportunities come with it.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>I wanted to be a professional baseball player, and I am still playing college baseball at Chaminade. Baseball has always been my biggest passion, and I put everything I can into it.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>One societal challenge I care about and see a lot of right now is misinformation and fake news, especially with the way technology is innovating, and how realistic fake stories and things like that can be, and how easy it is to produce.</p>"
+    }
+  },
+  {
+    "pk": 230541,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 8,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230542,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230541,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230543,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230542,
+    "data": {
+      "body": "<h3>Anthony Le Page Medina</h3>\n\n<p><strong>Academic Institution:</strong><br>\nCypress College</p>\n\n<p><strong>Field of Study:</strong><br>\nElectrical Engineering</p>"
+    }
+  },
+  {
+    "pk": 230544,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230542,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230545,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230541,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My current major is electrical engineering and the reason I chose this major due to the practicality. I grew up disassembling devices and altering the software to unlock the devices full potential while also testing the systems security measures. Electrical engineering allows me to apply my skills practically by developing and testing new hardware while also being able to still use my skills in computer science to test software.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid I wanted to be an astronaut. I was infatuated with science growing up and outer space was something that had interested me deeply. I was scared of the possibilities of what could be out there in the universe as a kid I was never a fan of the unknown. I wanted to be an astronaut so I could make new discoveries about the world we live in and help unravel what we have yet to learn about it all.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>The challenge that&#x27;s most important to me is the inaccessibility to healthcare. There is a concerning amount of individuals who can&#x27;t get the proper treatment required to live a healthy life due to the cost on healthcare. This is important to me as my mother has a brain tumor and even with the health insurance she has it is extremely difficult to get appointments for treatment and also with quality care.</p>"
+    }
+  },
+  {
+    "pk": 230546,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 9,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230547,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230546,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230548,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230547,
+    "data": {
+      "body": "<h3>Joseph Marful-Sau</h3>\n\n<p><strong>Academic Institution:</strong><br>\nGrambling State University</p>\n\n<p><strong>Field of Study:</strong><br>\nBiology</p>"
+    }
+  },
+  {
+    "pk": 230549,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230547,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230550,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230546,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>Biology.\nI have always been intrigued by science and passionate about service to humanity. Merging my love for science with my desire to serve humanity is the best way to do both, so I want to pursue a healthcare career.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>A medical doctor. This would make me a first-generation doctor in my family, and other children in the family can follow suit.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>Currently, I am working as a Campus Ambassador for the National Marrow Donation Program (NMDP), where we educate individuals, especially the black community, about the urgency of Marrow donation to save people who suffer from blood cancer and sickle cell disease.</p>"
+    }
+  },
+  {
+    "pk": 230551,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 10,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230552,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230551,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230553,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230552,
+    "data": {
+      "body": "<h3>Inoa Martinez</h3>\n\n<p><strong>Academic Institution:</strong><br>\nUniversity of Hawaii Manoa</p>\n\n<p><strong>Field of Study:</strong><br>\nAstrophysics\nMinor in Hawaiian Studies</p>"
+    }
+  },
+  {
+    "pk": 230554,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230552,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230555,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230551,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>I chose Astrophysics as my major because I think cosmology, which is the study of the universe on extremely large scales, is fascinating. Galaxy structures, dark matter, supernovae are just some some examples of cosmological objects. I also think high redshift objects are wondrous since it is a way for us to look back in time! We can look so far back that some objects that we observe existed before earth, or our sun.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid I wanted to be someone who would help build rockets. I thought the mars rovers were so cool, and was like &quot;how did they even get the rovers to mars.&quot; And also watching rocket launches on youtube seemed so grand, they are amazing feats of science.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>The diaspora of the Native Hawaiian people is a very important issue here in Hawai\u02bbi. There are many factors which contribute to this, and all the factors are things I care deeply about and am actively trying to learn. I care very deeply about this issue because the situation of the Hawaiian people in modern society is very particular, and tragic. I believe it should be brought more into discussion locally.</p>"
+    }
+  },
+  {
+    "pk": 230556,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 11,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230557,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230556,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230558,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230557,
+    "data": {
+      "body": "<h3>Kaleb Martinez-Ortega</h3>\n\n<p><strong>Academic Institution:</strong><br>\nUniversity of Puerto Rico - Rio Piedras</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Science</p>"
+    }
+  },
+  {
+    "pk": 230559,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230557,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230560,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230556,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My current major is Computer Science, I chose this major because of how versatile it is. I like how what you learn can be applied to other fields of study.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid, I wanted to be an astronaut because I was fascinated by outer space and wanted to see it for myself. The idea of walking on the moon also seemed really cool and honestly, I still think it is.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>The societal challenge I care most about is financial inequality, and my family has been a victim of it, so I understand how hard it can be. I&#x27;ve seen how limited opportunities and low wages forced many families, including mine, to make difficult choices or even migrate for better prospects</p>"
+    }
+  },
+  {
+    "pk": 230561,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 12,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230562,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230561,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230563,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230562,
+    "data": {
+      "body": "<h3>Yvonna Mellado</h3>\n\n<p><strong>Academic Institution:</strong><br>\nVictor Valley College</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Science</p>"
+    }
+  },
+  {
+    "pk": 230564,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230562,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230565,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230561,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My current major is computer science. I chose computer science because I find computers fascinating to study. The possibilities are endless when it comes to learning what makes computers operate and the logic that carries the future of technology. I want to be a part of learning how to build, maintain, and secure our new technology as they become more complex.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid, I always kept thinking about becoming a game developer. I grew up playing a lot of classics from Nintendo and Sega. I was curious about how a video game could create this interactive experience that allowed me to enter a new world. As I grew up, wanted to build my own projects which led me to studying computer science.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>A societal challenge that I care about the most is data management and cybersecurity. I feel like in today&#x27;s world we could apply cybersecurity more than ever. Since the pandemic, I heard numerous reports of data breaches, and companies mishandling data. It can make it difficult to build trust if the one place you are counting on the most to protect your data is actively selling it or not taking the precautions to prevent it from being stolen. I started adding networking and IT classes to my schedule in addition to my computer science coursework to learn more about cybersecurity and how various technologies work.</p>"
+    }
+  },
+  {
+    "pk": 230566,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 13,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230567,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230566,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230568,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230567,
+    "data": {
+      "body": "<h3>Alvin Moreno</h3>\n\n<p><strong>Academic Institution:</strong><br>\nUT Austin</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Science</p>"
+    }
+  },
+  {
+    "pk": 230569,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230567,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230570,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230566,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My current major is Computer Science. I chose it because of my strong interest in technology and programming, and also because I want to use these skills to create solutions that can help and give back to my community back home.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid, I wanted to be a Microsoft software engineer because I grew up playing on the Xbox and was inspired by the innovation behind it. I also admired Microsoft\u2019s workplaces and culture, which made me want to be part of that environment one day.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>The social challenge I care most about is education and equal opportunities. I believe everyone should have access to quality learning and resources, since education opens doors to better well being, careers, and the chance to improve communities.</p>"
+    }
+  },
+  {
+    "pk": 230571,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 14,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230572,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230571,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230573,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230572,
+    "data": {
+      "body": "<h3>Maka&#x27;ala Ng</h3>\n\n<p><strong>Academic Institution:</strong><br>\nChaminade University</p>\n\n<p><strong>Field of Study:</strong><br>\nEnvironmental Science and Environmental Studies</p>"
+    }
+  },
+  {
+    "pk": 230574,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230572,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230575,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230571,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>I am an Environmental Science and Studies major  because growing up the environment has always held deep cultural and personal significance for me. I understand how important is as a resource for our health, community, and well-being. I value the many services provided by natural ecosystems and believe that everyone shares a responsibility to take care of them for future generations. This program allows me to combine my passion for sustainability with technical skills to protect and restore the environment while honoring its cultural importance.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid, I wanted to be a firefighter because I was drawn to the idea of having an active, exciting job that kept me healthy and fit, while also making a real difference by helping my community. I admired the bravery and sense of purpose in the role\u2014it seemed like the perfect way to be bold, strong, and meaningful every day.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>The social challenge I care most about is environmental sustainability and climate justice. Protecting natural ecosystems while ensuring that vulnerable communities, especially indigenous peoples and those disproportionately affected by environmental harm, have equitable access to clean air, water, and land is critical. I believe addressing this challenge is essential not only for preserving biodiversity and ecosystem services but also for promoting social equity and resilience in the face of climate change and environmental degradation.</p>"
+    }
+  },
+  {
+    "pk": 230576,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 15,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230577,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230576,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230578,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230577,
+    "data": {
+      "body": "<h3>Jason Nguyen</h3>\n\n<p><strong>Academic Institution:</strong><br>\nCypress College</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Science</p>"
+    }
+  },
+  {
+    "pk": 230579,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230577,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230580,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230576,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My current major is computer science; I originally chose computer science because of my dad influence. When I was young my dad would tell me to major in computer science since one of my uncles and a few of my cousin are in the field and are very successful. However recent, I have realized that my interests more align with Information System, since I enjoy more of the ideas of using technology in a business setting.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>When I was a kid, I want to be a pilot because I want to travel around the world since when I was younger, I didn&#x27;t get to travel that much.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>The social challenge that I care most about is Education Opportunities because many students might not have the opportunity to go to the best college that they got accepted into due to financial constraints because of the high cost of education.</p>"
+    }
+  },
+  {
+    "pk": 230581,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 16,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230582,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230581,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230583,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230582,
+    "data": {
+      "body": "<h3>Axel Rivas-Cruz</h3>\n\n<p><strong>Academic Institution:</strong><br>\nUT Austin</p>\n\n<p><strong>Field of Study:</strong><br>\nBehavioral and Social Data Science</p>"
+    }
+  },
+  {
+    "pk": 230584,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230582,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230585,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230581,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My current major is Behavioral and Social Data Science. I chose it because I was interested in how data science could be used to analyze behavioral sciences .</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>I wanted to be a teacher, a veterinarian, a scientist, and a rockstar, but my goal for every career was the same. To be the best in my field.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>The societal challenge I care the most about is the unequal distribution of resources. We are in a position where we could help those around us, yet we choose not to because it is not profitable.</p>"
+    }
+  },
+  {
+    "pk": 230586,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 17,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230587,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230586,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230588,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230587,
+    "data": {
+      "body": "<h3>Jayson Y. S\u00e1nchez Vel\u00e1zquez</h3>\n\n<p><strong>Academic Institution:</strong><br>\nUniversity of Puerto Rico - Rio Piedras</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Science</p>"
+    }
+  },
+  {
+    "pk": 230589,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230587,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230590,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230586,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My major is Computer Science. I chose this field because it allows me to combine creativity and logic in equal parts. Take for example engineering: full of logic and creativity, but the discipline leans too much toward logic and functionality when being applied, sidestepping creativity if need be. In computer science, there\u2019s a combination of both when working and when applying. If there\u2019s a convention you don\u2019t like in engineering, you may one day find Newton and give him an earful for it, because you\u2019re not getting any more than that. But in computer science, you can make new rules from the ground up, as long as you follow some universal logic principles. So yeah, full-on creativity, full-on logic; the best combination around.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid, I wanted to be an astronaut. And even today I still feel that way. I think it was never really about riding a cool rocket; it was more about the idea of visiting an empty place, full of freedom and peace. The thought of being far from the bounds of Earth remains very tantalizing. In the end, it is not about going to moon, at all.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>The societal challenge I care about the most is a very hot one: AI (LLMs and generative AI). Both in a philosophical way and in a professional way, AI brings results that directly affect people. LLMs are super awesome and useful: the saviors of last-minute essays and the beavers of ideas that flow too fast to type correctly. But they also carry darker implications. Philosophically, having a centralized nexus of information that people trust entirely is extremely distressing. People have always let others do the thinking for them, but now it is more accessible than ever. Submitting your ideals to a third party becomes less an ignorant abandonment of will and more a forced status. A horrible societal plague that may already be getting out of hand.\n\nOn the professional side, as an aspiring game developer, it\u2019s painful to see companies firing creatives in favor of AIs, flooding the world with soulless art and games. The industry has long been filled with money-hungry executives, often ignorant of the very purpose of art\u2014to express emotion and reflect the human condition over the world. This trend desecrates the mediums I love and shrinks opportunities for people like me, making my dream harder to reach.</p>"
+    }
+  },
+  {
+    "pk": 230591,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 18,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230592,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230591,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230593,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230592,
+    "data": {
+      "body": "<h3>Andrea Silva</h3>\n\n<p><strong>Academic Institution:</strong><br>\nUniversity of Central Florida</p>\n\n<p><strong>Field of Study:</strong><br>\nStatistics and Data Science</p>"
+    }
+  },
+  {
+    "pk": 230594,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230592,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230595,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230591,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My major is Statistics and Data Science with a Minor in Psychology. I chose this because I want to obtain my PhD. after my bachelors and study human-AI relationships to be able to design AI models that prioritize protection of human cognition.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>I wanted to be an astronaut pop star. When I was little my grandpa had told me about the creation of the universe and the Big Bang, and he explained that we don&#x27;t yet know what happened before the Big Bang, so I wanted to become an astronaut to go up there and find out myself. I also wanted to be a pop star because I loved music, still do, so I decided I would be both.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>I care a lot about education accessibility, I believe everyone has the right to an education, and that anyone has the ability to learn anything as long as it&#x27;s taught in the right way. \nAs Nelson Mandela said &quot;education is the biggest weapon which you can use to save the world&quot; I am a big believer of this. I don&#x27;t think it&#x27;s fair that some people have access to education while others don&#x27;t.</p>"
+    }
+  },
+  {
+    "pk": 230596,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 19,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230597,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230596,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230598,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230597,
+    "data": {
+      "body": "<h3>Jayda Smith</h3>\n\n<p><strong>Academic Institution:</strong><br>\nAustin Community College</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Science</p>"
+    }
+  },
+  {
+    "pk": 230599,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230597,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230600,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230596,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My current major is computer science. I chose this major because I always had an interest in computers and coding since I was 12 years old. I had the opportunity to further that interest by participating with code@tacc robotics and cyber security programs. Since then I was thrilled to continue that experience by choosing computer science as my major so i can continue to explore computers and coding.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>I never had an exact career as a kid until around 12 years old, I had an interest in coding, ever since I played my coded my first game on the app Scratch, it was a spark in me to continue to pursue that interest .</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>How systems like laws, school and institutions don&#x27;t always support everyone equally.</p>"
+    }
+  },
+  {
+    "pk": 230601,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 20,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230602,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230601,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230603,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230602,
+    "data": {
+      "body": "<h3>Grace Stewart</h3>\n\n<p><strong>Academic Institution:</strong><br>\nChaminade University</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Science, Data Science majors; Fine Arts minor</p>"
+    }
+  },
+  {
+    "pk": 230604,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230602,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230605,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230601,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>I currently double major in Computer and Data Science. Initially, I chose these fields as a means to challenge myself academically and explore subject areas I was unfamiliar with. As I progressed, I discovered a passion for solving problems, working through complex issues, and overcoming obstacles in order to achieve meaningful goals.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a child, I wanted to be an astronaut. I have always had a fascination with space and always dreamed of exploring the &quot;great cosmos.&quot; While I no longer plan to pursue that career, that curiosity I had continues to manifest today in my love of discovery and problem-solving, particularly in more technical fields such as data science.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>A societal challenge I care deeply about is taking care of the environment around us. With overconsumption becoming increasingly normalized, we often forget to take the environmental impacts into consideration. These trends contribute to continued resource depletion and waste, making it imperative to enact change now and rethink what is truly necessary to our own lives. It is important for us to make sustainable choices whenever possible to help preserve long-term environmental health.</p>"
+    }
+  },
+  {
+    "pk": 230606,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 21,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230607,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230606,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230608,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230607,
+    "data": {
+      "body": "<h3>Elijah Stokes</h3>\n\n<p><strong>Academic Institution:</strong><br>\nMorehouse College</p>\n\n<p><strong>Field of Study:</strong><br>\nSoftware Engineering\nMinor: Data Science &amp; Analytics</p>"
+    }
+  },
+  {
+    "pk": 230609,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230607,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230610,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230606,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>I\u2019m majoring in Software Engineering with a minor in Data Science. I chose this path because I\u2019ve always been interested in technology and problem-solving, and I want to use my skills to create tools, apps, and games that can make a real impact.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid, I wanted to be a game developer because I loved how video games connected people and sparked creativity. They gave me an escape and inspiration, and I dreamed of building that same experience for others.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>I care most about equal access to education and technology. Growing up, I saw how limited resources held some students back, and I want to be part of building solutions that give everyone the same opportunity to learn and succeed.</p>"
+    }
+  },
+  {
+    "pk": 230611,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 22,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230612,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230611,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230613,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230612,
+    "data": {
+      "body": "<h3>Izack Takazawa</h3>\n\n<p><strong>Academic Institution:</strong><br>\nChaminade University</p>\n\n<p><strong>Field of Study:</strong><br>\nData Science with a concentration in health informatics and analytics</p>"
+    }
+  },
+  {
+    "pk": 230614,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230612,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230615,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230611,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>I am currently pursuing my BS in data science. I chose this major because of the problem solving and research and analyzing aspect of it. I enjoy trying to solve problems and work my way through challenges. I was also really captivated by some of the amazing things I could create using supercomputers, visualizations, AI, GIS, machine learning, and much more. I also believe that technology is going to have an even bigger role in the future and I want to be in the loop and understand how much it is going to change or daily lives.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid I wanted to be a professional athlete. I think as a child I fell in love with the competition of playing sports. I hated losing in every aspect of life, whether it was playing basketball at recess, getting a bad score on my 3rd grade math test, or losing to my friend&#x27;s pinto baseball team on the weekend. I dedicated myself to being the best player I could be and have continued to push myself everyday towards that goal. As I got older I took my ambition and fell in love playing baseball, basketball, and football.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>A societal challenge I really care about is economic inequality. Growing up I was very fortunate to go to an amazing college prep private school. However what really separated me from the majority of my classmates was my life outside of school. Growing up I&#x27;ve been surrounded by kids who have been very blessed and fortunate but take it for granted everyday and to be quite honest it lit a fire under me and I took it to heart. There are so many kids that would give anything to trade places with me, and I wasn&#x27;t going to let my actions and attitude jeopardize the opportunity I had. When I make it big, I want to be able to give back to my community and help kids have the same opportunities I had to chase their dreams and to fulfill their purpose God has sent them to do.</p>"
+    }
+  },
+  {
+    "pk": 230616,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 23,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230617,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230616,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230618,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230617,
+    "data": {
+      "body": "<h3>Elora Tonaki</h3>\n\n<p><strong>Academic Institution:</strong><br>\nChaminade University</p>\n\n<p><strong>Field of Study:</strong><br>\nData Science major, minor in Computer Science</p>"
+    }
+  },
+  {
+    "pk": 230619,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230617,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230620,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230616,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My major is Data Science, and I chose it because I found an interest in how fast technology was growing. I also took one class about data and how it&#x27;s all around us, and I found that concept really interesting.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid, I wanted to be a firefighter because they help people in danger and in need.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>In my communities here in Hawaii, it\u2019s very common to see individuals who live paycheck to paycheck just to afford rent or housing. However, we&#x27;re facing an increase in homelessness and poverty because of the high cost of living on the islands. From 2024&#x27;s PITC Reports, we had 4,494 people experiencing homelessness on Oahu alone and 6,389 total across all the islands, and the numbers continue to rise. With homelessness, many are unable to afford healthcare or basic needs for their health and experience higher risks of crime. This is important to me not only because it\u2019s happening to people in my community, but also because they deserve access to doctors, essential health services, and to feel safe.</p>"
+    }
+  },
+  {
+    "pk": 230621,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 24,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230622,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230621,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230623,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230622,
+    "data": {
+      "body": "<h3>Larchelle Tuifao</h3>\n\n<p><strong>Academic Institution:</strong><br>\nChaminade University</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Science</p>"
+    }
+  },
+  {
+    "pk": 230624,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230622,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230625,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230621,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>My current major is Computer Science. I actually didn&#x27;t choose it, funny enough my friend asked me to join her in majoring in Computer Science and since I didn&#x27;t have a set major yet I said &#x27;Sure&#x27;. It was when I took the SQL class that I realized I loved to code. So from then on I&#x27;ve stuck with it. Also because I heard about how much you get paid.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid I&#x27;ve wanted to be a number of different things. At first I wanted to be a doctor because I wanted to help others. But once I saw how much schooling you have to do for that I changed my mind. Then I wanted to become a teacher because a teacher of mine made a huge impact on me while I was going through a hard time, so I wanted to do that for other kids. Then I realized how much teachers have to do for so little pay and I changed my mind again.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>Right now, the societal challenge that I care most about is how untrustworthy the internet can be. With the way this generation is moving, I believe almost everything is going to be on the internet sooner or later. And with that will become a higher demand for cybersecurity. But as computer scientists and data scientists who use lots of technology in hopes to change the world, this may become a problem for us. For example, imagine you see a dataset that looks legit and you download it and somehow your computer gets hacked. Then all of your information is released. (Just an example I realize it may not be realistic).</p>"
+    }
+  },
+  {
+    "pk": 230626,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 25,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230500,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230627,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230626,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230628,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230627,
+    "data": {
+      "body": "<h3>Adam White</h3>\n\n<p><strong>Academic Institution:</strong><br>\nMorehouse College</p>\n\n<p><strong>Field of Study:</strong><br>\nComputer Engineering</p>"
+    }
+  },
+  {
+    "pk": 230629,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230627,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230630,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230626,
+    "data": {
+      "body": "<h4>Why did you choose your major?</h4>\n<p>I chose Computer Science because it&#x27;s always changing and innovating, which I find cool and I like that I can make stuff that actually helps people.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>I wanted to be rich as a kid because that to me symbolizes being free.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>I care about equal opportunities in education.</p>"
+    }
+  }
+]

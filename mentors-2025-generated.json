@@ -1,0 +1,412 @@
+[
+  {
+    "pk": 230000,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "Bootstrap4GridRowPlugin",
+    "parent_id": null,
+    "data": {
+      "vertical_alignment": "",
+      "horizontal_alignment": "",
+      "gutters": false,
+      "tag_type": "div",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230001,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230000,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230002,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230001,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230003,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230002,
+    "data": {
+      "body": "<h3>Christine Jones</h3>\n\n<p><strong>Academic Institution:</strong><br>\nAllstate</p>\n\n<p><strong>Work Responsibilities:</strong><br>\n* Analyze historical and in-force data to forecast product change outcomes and deliver strategic business recommendations to pricing and underwriting teams\n* Develop Excel-based monitoring systems with dynamic queries and pivot tables to track performance before and after rate adjustments and product rollouts\n* Build interactive Power BI dashboards to visualize shifts in quote and policy distributions, helping stakeholders evaluate the impact of marketing spend and underwriting changes across customer segments</p>"
+    }
+  },
+  {
+    "pk": 230004,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230002,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230005,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230001,
+    "data": {
+      "body": "<h4>What aspects of the program are you most looking forward to?</h4>\n<p>I&#x27;m most looking forward to seeing what kind of social issues are important to students</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>I wanted to be a WNBA player because my aunt played college basketball and I thought she was really cool (and she was the only woman I saw in sports consistently)</p>\n<h4>If you could design your own invention right now, what would it do?</h4>\n<p>Accurately interpret American Sign Language in real time</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>Having a minor in Deaf culture showed me the challenges that Deaf people face, especially in healthcare institutions (lack of access to adequate communication, lack of information, lack of resources, not knowing they have the right to request communication aids including interpreters)</p>\n<h4>What was the best advice you received in college?</h4>\n<p>Don&#x27;t let other people distract you from your goals/ambitions</p>\n<h4>Is there a topic in your field you think everyone should know a little about?</h4>\n<p>Excel as an analysis tool (pivot tables, vlookups, charts, maps, etc)</p>"
+    }
+  },
+  {
+    "pk": 230006,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230000,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230007,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230006,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230008,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230007,
+    "data": {
+      "body": "<h3>Cristian Moran</h3>\n\n<p><strong>Academic Institution:</strong><br>\nTexas A&amp;M University-San Antonio</p>\n\n<p><strong>Work Responsibilities:</strong><br>\nComputer Information Systems</p>"
+    }
+  },
+  {
+    "pk": 230009,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230007,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230010,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230006,
+    "data": {
+      "body": "<h4>What aspects of the program are you most looking forward to?</h4>\n<p>I am really looking forward to the mentoring part. This will be my first time working with multiple mentees, and I want to give them the same support my mentor gave me. I am also excited about the networking and meeting other mentors, students, and staff. When I first joined last year, I was not sure I fit in high performance computing, but I realized I do. I want to keep learning from the community and pass that forward.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a kid, I wanted to be the President of the United States. My favorite game at the time was playing Pirates, and I always wanted to be the captain. I liked looking after the crew, making the plan, and getting everyone home safe after we were done playing. People told me I was good at it, so I figured maybe I could be a good captain in real life, too, but just at a bigger stage.</p>\n<h4>If you could design your own invention right now, what would it do?</h4>\n<p>Ohh, I think about this question all the time lol! Currently, I would choose a teleportation machine for various reasons, like having families see each other in seconds, or having people get help faster in emergencies, or I would choose a candle that never runs out and lets me change the scent whenever I want.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>I grew up in an immigrant community, so I care most about safety, dignity, and opportunity for families like mine. Right now, many people are living with uncertainty and fear while also facing things like misinformation, limited access to resources, and higher disaster risk. I want my work and my voice to help communities stay informed, prepare better, and feel like they belong.</p>\n<h4>What was the best advice you received in college?</h4>\n<p>The best advice I received in college was to slow down. I\u2019m always operating at twice the speed I need to, thinking about the future and the opportunities I want to create for myself. There is a lot of uncertainty, so I tend to plan ahead. That advice reminded me to live in the present and do the best I can today, and then do that again tomorrow.</p>\n<h4>Is there a topic in your field you think everyone should know a little about?</h4>\n<p>Yes! I think everyone should know more about the ways AI, computer vision, and machine learning can help outside of robots and data. These tools can be used for real community needs, like planning for natural hazards, pushing back on misinformation, improving access to services, and making day to day systems work better.</p>"
+    }
+  },
+  {
+    "pk": 230011,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 2,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230000,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230012,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230011,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230013,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230012,
+    "data": {
+      "body": "<h3>Omarion Neal</h3>\n\n<p><strong>Academic Institution:</strong><br>\nMississippi State University</p>\n\n<p><strong>Work Responsibilities:</strong><br>\nComputer Science</p>"
+    }
+  },
+  {
+    "pk": 230014,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230012,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230015,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230011,
+    "data": {
+      "body": "<h4>What aspects of the program are you most looking forward to?</h4>\n<p>I&#x27;m looking forward to interacting with the other mentors and as well as the participants of ACSC. I&#x27;m interested in how we will all grow from this experience and how everyone&#x27;s background and perspectives will shape this entire experience. I&#x27;m also curious as to what the participants will come up with for their research topics and how they will present their findings.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>When I was a kid, I wanted to be a ninja. This was due to me watching a lot of cartoons. I used to watch Lego Ninjago all the time, and I thought it would be pretty cool to be a ninja. I thought I would have powers, be able to fly, be able to interact with animals, and be able to save people.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>The social challenge I care about the most is the world bashing people who are themselves or who try to be themselves. I care the most about this because it causes a lot of people to lose themselves. People tend to do things that isn&#x27;t normally then just feel accepted or find a sense of belonging in a community that was never meant for them. In today&#x27;s time majority of people follow social media trends but are left feeling empty once the trend is over. I also witness people do things that drastically changed their life for the worse simply because their surrounding environment didn&#x27;t accept nor allowed them to be themselves. People being themselves brings forth so much diversity and variety of different perspectives that is so unique to this world. This is why I care so much about this particular challenge because this plays a major role as to why people choose to take their own life.</p>\n<h4>What was the best advice you received in college?</h4>\n<p>The best advice I have received in college so far has been, always be yourself, remain genuine, and if you&#x27;re going to do something, do it with the right intentions. I was also told to not view challenges as an obstacle but to view them as an opportunity to grow, learn, and to shift my perspective. The final best advice I received is to share my success, to show those who were once in my situation the same opportunities I was once presented with to be able to make a long-lasting impact.</p>\n<h4>Is there a topic in your field you think everyone should know a little about?</h4>\n<p>Everyone should know a little about cybersecurity because it impacts our daily lives, from protecting personal data to keeping financial information safe. Simple practices like using strong passwords and two-factor authentication can make a big difference. As technology grows, digital privacy isn\u2019t just a tech issue, it\u2019s a life skill.</p>"
+    }
+  },
+  {
+    "pk": 230016,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 3,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230000,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230017,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230016,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230018,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230017,
+    "data": {
+      "body": "<h3>Omar Ocasio</h3>\n\n<p><strong>Academic Institution:</strong><br>\nWorkSimpli Software</p>\n\n<p><strong>Work Responsibilities:</strong><br>\nDevelopment Support Agent / Quality Assurance Engineer</p>"
+    }
+  },
+  {
+    "pk": 230019,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230017,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230020,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230016,
+    "data": {
+      "body": "<h4>What aspects of the program are you most looking forward to?</h4>\n<p>I look forward of meeting all the new students and connecting with the other mentors and staff members. Im also very excited to attend SC again</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>As a teenager, I was into music and technology. I wanted to study music but ended up learning about technology thanks to my father (rest in peace). He helped me with learning how things worked, not just in tech but in music, mechanics, computers, engineering, and life.</p>\n<h4>If you could design your own invention right now, what would it do?</h4>\n<p>A social media app specifically designed for musicians in your area to explore, collaborate and share each others talents and show dates</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>Economies have changed drastically in recent years, and for the lower class, that change has been for the worse. I share bills, food costs, and groceries with two roommates, and sometimes we struggle to make ends meet. Even will full-time jobs, we barely have enough for savings and emergencies after paying bills.</p>\n<h4>What was the best advice you received in college?</h4>\n<p>Success is the result of many mistakes learned. It&#x27;s not the result that matters, it&#x27;s the journey that makes you grow to master your craft.</p>\n<h4>Is there a topic in your field you think everyone should know a little about?</h4>\n<p>Everyone should know a little about quality assurance\u2014it\u2019s not just pushing buttons to see if something breaks, but ensuring the product is reliable, high-quality, and delivers the right experience for users.</p>"
+    }
+  },
+  {
+    "pk": 230021,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 4,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230000,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230022,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230021,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230023,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230022,
+    "data": {
+      "body": "<h3>Liliyah-Joy Quel-Kaina</h3>\n\n<p><strong>Academic Institution:</strong><br>\nChaminade University of Honolulu</p>\n\n<p><strong>Work Responsibilities:</strong><br>\nMajor: Forensic Science and Data Science Analysis &amp; Visualization \n\nWork: Undergrad Research Assistant, under Dr.Rylan Chong and Dr.Kelly Gaither</p>"
+    }
+  },
+  {
+    "pk": 230024,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230022,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230025,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230021,
+    "data": {
+      "body": "<h4>What aspects of the program are you most looking forward to?</h4>\n<p>I&#x27;m looking forward to making the most of this mentor experience. I&#x27;ve only ever participated in most of these kinds of programs, so this is my first time taking a leadership role. I&#x27;m excited to learn new skills and develop my communication and leadership knowledge to better myself and help those around me.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>Growing up, I watched a lot of Criminal Minds, NCIS, CSI, and different true crime documentaries. I also found their work very interesting, and sitting in front of that TV watching Abby from NCIS inspired me to go into forensics. I like puzzles and games where I must strategize and outthink others together. I didn&#x27;t think a police officer or government agent would be the best job for me because I don&#x27;t want to be put into those highly hostile situations or go into the field and have discussions that could affect many people&#x27;s lives. A CSI or lab person would be a better fit because I still contribute to many high-profile cases, allowing me to find, process, and provide evidence. I can do all the back work by proving facts, which are key in any case that occurs, because without the work of a forensic scientist, all you have is theory and allegations. You don&#x27;t have anything concrete, which makes my job so much more important, which is why growing up, I really wanted to be a CSI or a specialized forensic technician.</p>\n<h4>If you could design your own invention right now, what would it do?</h4>\n<p>If I could design my invention, I would create an extensive X-ray. I know that X-rays already exist, but I would make one on a much larger scale that could scan large vehicles like trucks, planes, coaches, etc. I would do this to help identify objects or people who should otherwise not be there. The amount of illegal objects or people transported is unimaginable. Because we don\u2019t have the right resources or due to ethical concerns, we don\u2019t have the right system in place to entirely prevent situations like these from happening. With this a-ray, we would be able to identify more suspicious activity and question the contents of each vehicle. Hoping to catch more suspicious behavior or illegal activity faster and at a higher rate.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>The societal challenge I care most about is vehicle accident prevention. Recently, a high spike in vehicle crash accidents in Hawaii has occurred. Ending in critical or lethal conditions for the individual involved. It\u2019s to the point where we have some injured from a vehicle accident almost every single day. This is such a sad situation because not many plan to get into a crash; it all depends on the circumstances that occur, which could position you at the place of the accident. This issue is also very prevalent in other areas, not just in Hawaii, and will continue because it is an issue until a solution is reached. No solution will be perfect, but if we can do more to prevent the challenge, things will improve.</p>\n<h4>What was the best advice you received in college?</h4>\n<p>The best advice I received in college was, Always be unapologetically yourself. This resonated with me because I\u2019m very passive, so I will adapt to my environment and form something new. Presentation for myself to fit in. Doing this, I began to lose myself by constantly trying to be what others needed me to be. I&#x27;ve always been scared to show others who I really am, in fear of being disliked or rejected, which really messed with my mental/emotional health. The toll it took affected me a lot more than I noticed, and started to affect how I operated in my day-to-day life. One of my closest friends, whom I talked to, told me I should be unapologetically myself, because who am I if not myself? I am who I am, and I gotta own my person. If I keep fearing what others might think or changing myself to others&#x27; needs, I&#x27;m not truly living. I should be confident and proud of who I am, and the people who will stay with me because of that are my true friends/people. I can\u2019t please everyone, so the best I can do is be myself.</p>\n<h4>Is there a topic in your field you think everyone should know a little about?</h4>\n<p>I don\u2019t think most people know how time-consuming forensics work really is. We have to take many tedious steps to ensure the integrity of the crime scene and evidence. Due to so many laws and regulations on how things need to be done, wheat needs to be collected, and documentation that needs to be filled out, it will take a very long time. In movies, it shows work that can take up to two months or more, but is put into a three-day process. It\u2019s not very realistic, but so many people watch it and are influenced by what they see that they don\u2019t realize how inaccurate a lot of the information is, because this is the only side they are exposed to. The amount of work needed is so tremendous that it could make or break a case or result in nothing. If there&#x27;s one thing I want people to know, fore ocs is a lot of work. I want everyone to appreciate everything that they do truly.</p>"
+    }
+  },
+  {
+    "pk": 230026,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 5,
+    "plugin_type": "Bootstrap4GridColumnPlugin",
+    "parent_id": 230000,
+    "data": {
+      "column_type": "col",
+      "column_alignment": "",
+      "tag_type": "div",
+      "attributes": {},
+      "xs_col": 12,
+      "sm_col": 12,
+      "md_col": 12,
+      "lg_col": 6,
+      "xl_col": 6
+    }
+  },
+  {
+    "pk": 230027,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "StylePlugin",
+    "parent_id": 230026,
+    "data": {
+      "template": "default",
+      "label": "Card w/ Image",
+      "tag_type": "div",
+      "class_name": "card--image-left",
+      "additional_classes": "card--plain",
+      "id_name": "",
+      "attributes": {}
+    }
+  },
+  {
+    "pk": 230028,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 0,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230027,
+    "data": {
+      "body": "<h3>Qian Zhao</h3>\n\n<p><strong>Academic Institution:</strong><br>\nSkyline College</p>\n\n<p><strong>Work Responsibilities:</strong><br>\nComputer Science</p>"
+    }
+  },
+  {
+    "pk": 230029,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "Bootstrap4PicturePlugin",
+    "parent_id": 230027,
+    "data": {
+      "template": "default",
+      "picture": 2826,
+      "picture_fluid": true
+    }
+  },
+  {
+    "pk": 230030,
+    "creation_date": "2025-11-07T00:00:00.000Z",
+    "position": 1,
+    "plugin_type": "TextPlugin",
+    "parent_id": 230026,
+    "data": {
+      "body": "<h4>What aspects of the program are you most looking forward to?</h4>\n<p>I looking forward to meet the previous mentors and faculty who had supported me a lot. The ACSC program not only deepened my technical skills but also helped me build a network with people. I hope participants can feel a sense of belonging through my leadership as well.</p>\n<h4>What did you want to be as a kid and why?</h4>\n<p>I wanted to be a writer when I was a kid, especially for crime and horror stories. Because I was afraid to read them, I thought the person who created them must be smart and powerful.</p>\n<h4>If you could design your own invention right now, what would it do?</h4>\n<p>A time machine that can travel to the future; I want to be retired.</p>\n<h4>What social or societal challenge do you care most about and why?</h4>\n<p>A social challenge I care about is the educational resource imbalance between rural and urban areas. I come from a village in a foreign country, and my environment lacked high-quality educational resources. Many first-generation students face similar challenges while seeking higher education, including family responsibilities and financial pressure. I am pursuing a degree in Computer Science because I want to build a website for an open educational resource that serves the people of my country. Growing up, I wanted to be a writer because words have the power to change perception and improve our narrow points of view.</p>\n<h4>What was the best advice you received in college?</h4>\n<p>\u201cEducation is a process of learning how to learn.\u201d</p>\n<h4>Is there a topic in your field you think everyone should know a little about?</h4>\n<p>In Large language Model training, the numbers of credible resources that an Artificial Intelligence gives grow linearly as the amount of input questions gets larger; however, the false information it gives grows exponentially, which means it will cooperate with related resources and come up with new and unreliable information, and these will be more than the actuated ones. Instead of checking AI\u2019s answer at the beginning and building trust, it\u2019s better to check the answers after 10 questions, then determine if you should continue to use this Artificial Intelligence.</p>"
+    }
+  }
+]
